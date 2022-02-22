@@ -1,0 +1,11 @@
+server:
+  port: 5555
+
+spring:
+  application:
+    name: bot-demo
+
+bot:
+  telegram:
+    username: ucb_demo_bot
+    token: 5143259488:AAE5fWk48gVfA5MrY7d2Fkb4wXtqPECY3zY

@@ -1,0 +1,5 @@
+#envio de mensaje al bot
+POST http://localhost:5555/api/v1/notification?message=waskar
+Content-Type: application/json
+
+{}
